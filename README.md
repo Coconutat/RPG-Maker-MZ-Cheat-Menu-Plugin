@@ -3,7 +3,7 @@ RPG Maker MZ Cheat Menu Plugin
 So, what is the difference between this fork version and the (original version)[https://github.com/emerladCoder/RPG-Maker-MV-Cheat-Menu-Plugin]?  
 In fact, there is no difference.    
 The original version is work fine.But RPG Maker MZ Game change js path.So I need to fix the Patcher Program and script path.  
-**Thank the original author (emerladCoder)[https://github.com/emerladCoder] very much**.Without this author, I can't easily adapt just by modifying a few lines of characters. **Thanks again**.  
+**Thank the original author [emerladCoder](https://github.com/emerladCoder) very much**.Without this author, I can't easily adapt just by modifying a few lines of characters. **Thanks again**.  
 
 Tested game:(Need Know What Know)[https://steamdb.info/app/2150870/]
 
@@ -12,7 +12,7 @@ Tested game:(Need Know What Know)[https://steamdb.info/app/2150870/]
 Type 1 : Pure manual operation  
 1. Find the folder named js in GameFolder. 
 2. Copy the js folder under folder Cheat_Menu to your game directory.
-3. Use Notepad/ Notepad2[https://github.com/zufuliu/notepad2] / (Noetpad3)[https://github.com/rizonesoft/Notepad3] / (Notepad--)[https://github.com/cxasm/notepad--] to open main.js.
+3. Use Notepad/ [Notepad2](https://github.com/zufuliu/notepad2) / [Noetpad3](https://github.com/rizonesoft/Notepad3) / [Notepad--](https://github.com/cxasm/notepad--) to open main.js.
 4. Find `const scriptUrls =` field.  
 For example:  
 ````
@@ -55,4 +55,4 @@ You can notice an extra line.
 Type 2 : There is nothing for the time being.
 ***
 
-Any other information same as (original version)[https://github.com/emerladCoder/RPG-Maker-MV-Cheat-Menu-Plugin].
+Any other information same as [original version](https://github.com/emerladCoder/RPG-Maker-MV-Cheat-Menu-Plugin).
