@@ -1,1 +1,0 @@
-{"name":"Cheat_Menu_Cursed_Armor","status":true,"description":"","parameters":{}}

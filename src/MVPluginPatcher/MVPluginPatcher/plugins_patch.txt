@@ -1,2 +1,0 @@
-{"name":"Cheat_Menu","status":true,"description":"","parameters":{}}
-{"name":"OTHER_PLUGIN","status":true,"description":"","parameters":{}}
